@@ -1,4 +1,4 @@
-# rankweave-site-audit
+# rankweave-geo-audit
 
 [🇬🇧 English](./README.md)
 
@@ -21,7 +21,7 @@
 ## 安装
 
 ```bash
-npm install rankweave-site-audit
+npm install rankweave-geo-audit
 ```
 
 需要 Node.js >= 18.0.0
@@ -29,7 +29,7 @@ npm install rankweave-site-audit
 ## 使用
 
 ```typescript
-import { audit } from 'rankweave-site-audit';
+import { audit } from 'rankweave-geo-audit';
 
 const result = await audit({
   domain: 'example.com',

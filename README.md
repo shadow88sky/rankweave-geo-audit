@@ -1,4 +1,4 @@
-# rankweave-site-audit
+# rankweave-geo-audit
 
 [🇨🇳 中文文档](./README.zh-CN.md)
 
@@ -21,7 +21,7 @@ This library audits the 4 technical dimensions that determine whether AI engines
 ## Install
 
 ```bash
-npm install rankweave-site-audit
+npm install rankweave-geo-audit
 ```
 
 Requires Node.js >= 18.0.0
@@ -29,7 +29,7 @@ Requires Node.js >= 18.0.0
 ## Usage
 
 ```typescript
-import { audit } from 'rankweave-site-audit';
+import { audit } from 'rankweave-geo-audit';
 
 const result = await audit({
   domain: 'example.com',

@@ -138,30 +138,9 @@ Checks `robots.txt` for 9 major AI crawlers:
 
 **GEO Impact:** Content quality determines whether AI can extract useful information. Thin pages, missing metadata, and no blog/FAQ means less content for AI to learn from and cite.
 
-## Beyond Technical Audit — Full AI Visibility
+## Want More Than Technical Audit?
 
-This package covers the **technical foundation** of GEO — whether AI _can_ crawl and understand your site.
-
-But GEO has a second half: **Are AI search engines actually mentioning your brand in their answers?**
-
-[**RankWeave**](https://rankweave.top) is a full AI Visibility Engine that combines:
-
-| Capability | This Package | RankWeave Platform |
-|------------|:---:|:---:|
-| AI crawler access audit | ✅ | ✅ |
-| Structured data check | ✅ | ✅ |
-| Knowledge graph check | ✅ | ✅ |
-| Content basics audit | ✅ | ✅ |
-| Cross-engine AI visibility diagnosis (ChatGPT, Gemini, Claude, DeepSeek, Grok) | — | ✅ |
-| Brand sentiment analysis in AI answers | — | ✅ |
-| Competitor citation gap analysis | — | ✅ |
-| AI-optimized content generation | — | ✅ |
-| Multi-platform publishing | — | ✅ |
-| Ongoing monitoring & verification | — | ✅ |
-
-👉 **[Try the free GEO health check](https://rankweave.top/try)** — no signup required, results in under 60 seconds.
-
-👉 **[Get full AI visibility analysis](https://rankweave.top)** — see exactly how ChatGPT, Gemini, Claude talk about your brand.
+[**RankWeave**](https://rankweave.top) also diagnoses your brand's actual visibility across ChatGPT, Gemini, Claude, and more. [Try it free →](https://rankweave.top/try)
 
 ## License
 

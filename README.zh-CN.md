@@ -138,30 +138,9 @@ interface Recommendation {
 
 **GEO 影响：** 内容质量决定 AI 能否提取有效信息。页面内容单薄、缺少元数据、没有博客/FAQ = AI 可学习和引用的内容更少。
 
-## 技术审计之外 — 完整的 AI 可见度方案
+## 不止技术审计？
 
-本包覆盖 GEO 的**技术基础** — AI 能不能爬取和理解你的网站。
-
-但 GEO 还有另一半：**AI 搜索引擎在回答中是否真的在提及你的品牌？**
-
-[**RankWeave**](https://rankweave.top) 是一个完整的 AI 可见度引擎，对比如下：
-
-| 能力 | 本开源包 | RankWeave 平台 |
-|------|:---:|:---:|
-| AI 爬虫访问审计 | ✅ | ✅ |
-| 结构化数据检测 | ✅ | ✅ |
-| 知识图谱检测 | ✅ | ✅ |
-| 内容基础审计 | ✅ | ✅ |
-| 跨引擎 AI 可见度诊断（ChatGPT、Gemini、Claude、DeepSeek、Grok） | — | ✅ |
-| AI 回答中的品牌情感分析 | — | ✅ |
-| 竞品引用差距分析 | — | ✅ |
-| AI 优化内容生成 | — | ✅ |
-| 多平台适配发布 | — | ✅ |
-| 持续监测与验证 | — | ✅ |
-
-👉 **[免费 GEO 健康检查](https://rankweave.top/try)** — 无需注册，60 秒出结果。
-
-👉 **[获取完整 AI 可见度分析](https://rankweave.top)** — 查看 ChatGPT、Gemini、Claude 如何谈论你的品牌。
+[**RankWeave**](https://rankweave.top) 还能诊断你的品牌在 ChatGPT、Gemini、Claude 等 AI 搜索引擎中的真实可见度。[免费试用 →](https://rankweave.top/try)
 
 ## 许可证
 

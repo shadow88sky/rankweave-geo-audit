@@ -1,0 +1,56 @@
+{
+  "name": "rankweave-site-audit",
+  "version": "1.0.0",
+  "description": "GEO (Generative Engine Optimization) site audit tool — check how well your website is optimized for AI search engines",
+  "type": "module",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./dist/index.js",
+      "types": "./dist/index.d.ts"
+    }
+  },
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "prepublishOnly": "npm run build && npm test"
+  },
+  "keywords": [
+    "seo",
+    "geo",
+    "ai",
+    "audit",
+    "site-audit",
+    "generative-engine-optimization",
+    "llm",
+    "robots-txt",
+    "structured-data",
+    "schema-org",
+    "knowledge-graph"
+  ],
+  "author": "RankWeave <hello@rankweave.top> (https://rankweave.top)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shadow88sky/rankweave-site-audit"
+  },
+  "homepage": "https://rankweave.top",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.5.0",
+    "vitest": "^3.0.0"
+  }
+}

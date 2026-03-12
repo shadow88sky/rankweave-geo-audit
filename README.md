@@ -1,4 +1,8 @@
+<a id="english"></a>
+
 # rankweave-site-audit
+
+[🇨🇳 中文文档](#中文文档)
 
 > **The first open-source library focused on GEO (Generative Engine Optimization) auditing** — from [RankWeave](https://rankweave.top), the AI Visibility Engine.
 
@@ -167,7 +171,11 @@ MIT © [RankWeave](https://rankweave.top)
 
 ---
 
+<a id="中文文档"></a>
+
 # rankweave-site-audit（中文文档）
+
+[🇬🇧 English](#english)
 
 > **首个专注 GEO（生成式引擎优化）审计的开源库** — 来自 [RankWeave](https://rankweave.top)，AI 可见度引擎。
 
